@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Defs>
-    <ThingCompDef>
-        <defName>ThingComp_SanguophageRegeneration</defName>
-        <label>Regeneration</label>
-        <description>Allows Sanguophages to regenerate lost limbs after deathrest.</description>
-    </ThingCompDef>
-</Defs>
