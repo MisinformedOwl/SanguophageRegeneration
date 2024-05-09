@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="urf-8"?>
+<ModMetaData>
+	<name>Sanguophage Regeneration</name>
+	<author>MisinformedOwl</author>
+	<supportedVersions><li>1.5</li></supportedVersions>
+	<description>V1.0
+		Allows Sanguophages to regenerate limbs during death rest.
+	</description>
+	<packageId>AuthorName.ModName.Specific</packageId>
+</ModMetaData>

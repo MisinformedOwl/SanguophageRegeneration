@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <ThingComp>
+        <defName>Sanguophade_Regeneration</defName>
+        <label>Sanguophage limb regeneration mod</label>
+        <thingClass>Regeneration.CompSanguophageRegeneration</thingClass>
+    </ThingComp>
+</Defs>

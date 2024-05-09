@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Regeneration\Assemblies\Regeneration.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Regeneration\Regeneration\obj\Debug\Regeneration.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Regeneration\Regeneration\obj\Debug\Regeneration.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Regeneration\Regeneration\obj\Debug\Regeneration.dll
