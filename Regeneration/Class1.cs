@@ -8,11 +8,11 @@ using Verse;
 
 namespace Regeneration
 {
-    public class CompSanguophageRegeneration : ThingComp
+    public class DeathRestRegenerate : Gene_Deathrest
     {
-        public override void CompTick()
+        public void TickDeathresting(bool paused)
         {
-            base.CompTick();
+            base.TickDeathresting(paused);
             Log.Message("This is a test");
         }
     }
