@@ -1,0 +1,10 @@
+<Config>
+	<!-- Standard tick rate is 12000, this is enough to regenerate a few limbs if i remember 
+	correctly and was what i found to be the most appropriate setting as it largely recovered 
+	most injuries over the course of the death rest 
+
+	On 12000 it takes ~45% of the deathrest time to fully regenerate a limb like a leg. This is approximatly 40 hours of deathresting.
+	Do with this information what you will.
+	-->
+	<requiredTicks>12000</requiredTicks>
+</Config>
